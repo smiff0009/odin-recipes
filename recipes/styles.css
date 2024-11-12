@@ -10,3 +10,8 @@ div.h1 {
 #second {
     color: blue;
 }
+
+p {
+    background-color: black;
+    color: white;
+}
