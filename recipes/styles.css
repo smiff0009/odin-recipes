@@ -4,6 +4,10 @@
 }
 
 .column {
-    flex: auto;
+    flex: 1, 1, 500px;
     flex-wrap: wrap;
+    background-color: black;
+    color: white;
+    gap: 1rem;
+    justify-content: center;
 }
