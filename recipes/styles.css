@@ -15,3 +15,9 @@ p {
     background-color: black;
     color: white;
 }
+
+.columns {
+    display: flex;
+    flex-wrap: wrap;
+    flex: auto;
+}
