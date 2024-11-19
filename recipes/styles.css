@@ -10,6 +10,6 @@
     color: white;
     gap: 5rem;
     justify-content: center;
-    border-color: red;
-    border: 3px;
+    border: 30 px solid red;
+    padding: 50px;
 }
