@@ -4,6 +4,38 @@
     flex-wrap: wrap;
 }
 
+.mid {
+    display: flex;
+}
+
+.mid-child {
+    justify-content: center;
+    background-color: blue;
+    color: white;
+    border: 45px solid white;
+    padding: 50px;
+}
+
+.lower {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.lower-child {
+    flex: 1 0 0;
+    background-color: grey;
+    color: black;
+    gap: 10px;
+    padding: 50px;
+}
+
+.footer {
+    display: flex;
+    background-color: green;
+    color: white;
+    justify-content: flex-start;
+}
+
 .column {
     flex: 1 0 0;
     background-color: black;
