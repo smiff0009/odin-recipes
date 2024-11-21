@@ -14,8 +14,8 @@
     justify-content: center;
     background-color: blue;
     color: white;
-    border: 45px solid white;
-    padding: 50px;
+    border: 5px solid yellow;
+    padding: 5px;
 }
 
 .lower {
@@ -23,6 +23,7 @@
     flex-wrap: wrap;
     justify-content: center;
     align-items: flex-start;
+    gap: 10px;
 }
 
 .lower-child {
